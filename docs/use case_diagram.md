@@ -79,3 +79,4 @@ style اقامت fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 ```
 style مدیریت_پذیرش fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style مدیریت_سیستم fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
+```
