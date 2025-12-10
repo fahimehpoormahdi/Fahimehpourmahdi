@@ -63,7 +63,6 @@ UC8 --> UC8a & UC8b
 style Guest fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
 style Receptionist fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
 style Manager fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-
 style UC1 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC2 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC3 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
@@ -72,7 +71,6 @@ style UC5 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC6 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC7 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC8 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px%% استایل گروه‌ها (Subgraphs)
-
 style رزرو fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style اقامت fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style مدیریت_پذیرش fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
