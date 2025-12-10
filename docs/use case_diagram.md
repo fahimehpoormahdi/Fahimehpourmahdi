@@ -72,6 +72,7 @@ style UC5 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC6 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC7 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px
 style UC8 fill:#E3F2FD,stroke:#2196F3,stroke-width:2px%% استایل گروه‌ها (Subgraphs)
+
 style رزرو fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style اقامت fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style مدیریت_پذیرش fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
