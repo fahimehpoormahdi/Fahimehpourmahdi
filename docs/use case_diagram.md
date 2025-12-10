@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 flowchart RL
 
 %% 🎭 بازیگران
@@ -97,3 +97,4 @@ style تمرینات fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style خدمات fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style مدیریت_مربی fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
 style مدیریت_سیستمی fill:#F1F8E9,stroke:#B2DFDB,stroke-dasharray: 5 5
+```
