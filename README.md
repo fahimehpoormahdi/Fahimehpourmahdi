@@ -36,9 +36,10 @@
 
 
 -[تحلیل نیازمندی ها](docs/first_principles_analysis.md)
+
 -[طراحی سیستم](docs/architecture.md)
 
--[موارد کاربرد و سناریوها](docs/use_case.md)
+-[موارد کاربرد و سناریوها](docs/README.md)
 
 ## برنامه زمان بندی اولیه
 | مرحله | توضیحات | بازه زمانی |
