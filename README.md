@@ -35,7 +35,7 @@
 ## مستندات
 
 
--[تحلیل نیازمندی ها](docs/first_principles_analysis.md))
+-[تحلیل نیازمندی ها](docs/first_principles_analysis.md)
 
 -[موارد کاربرد و سناریوها](docs/README.md)
 
