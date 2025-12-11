@@ -35,9 +35,7 @@
 ## مستندات
 
 
--[تحلیل نیازمندی ها](docs/first_principles_analysis.md)
-
--[طراحی سیستم](docs/architecture.md)
+-[تحلیل نیازمندی ها](docs/first_principles_analysis.md))
 
 -[موارد کاربرد و سناریوها](docs/README.md)
 
